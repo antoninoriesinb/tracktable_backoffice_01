@@ -1,0 +1,6 @@
+# Ignore configuration files that may contain sensitive information.
+cq-author-4502.jar
+license.properties
+
+# Ignore paths that contain user-generated content.
+
